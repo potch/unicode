@@ -1,0 +1,18 @@
+{
+  "name": "unicode",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "unicode": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nomnom": "^1.8.0",
+    "string.fromcodepoint": "^0.2.1"
+  }
+}
